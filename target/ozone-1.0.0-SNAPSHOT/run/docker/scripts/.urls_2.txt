@@ -1,7 +1,0 @@
-HIS Component      URL                    Username  Password
--                  -                      -         -
-OpenMRS 3          localhost/openmrs/spa  admin     Admin123
-OpenMRS Legacy UI  localhost/openmrs      admin     Admin123
-SENAITE            localhost:8081         admin     password
-Odoo               localhost:8069         admin     admin
-Superset           localhost:8088         admin     password
